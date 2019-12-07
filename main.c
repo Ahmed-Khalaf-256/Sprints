@@ -14,7 +14,7 @@
 #define REQ6	6
 #define REQ7	7
 #define REQ9	9
-#define REQ		REQ6	/* choose a req then compile */
+#define REQ		REQ7	/* choose a req then compile */
 
 int main(void) {
 
